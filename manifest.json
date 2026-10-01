@@ -1,0 +1,33 @@
+{
+  "base_url": "https://devhaxmaster.github.io/ImperiumImages/",
+  "files": [
+    "supremacy-logo.png",
+    "nav-overview.png",
+    "nav-faction.png",
+    "nav-claims.png",
+    "nav-treasury.png",
+    "nav-points.png",
+    "nav-alliances.png",
+    "nav-war.png",
+    "nav-settings.png",
+    "nav-admin.png",
+    "icon-members.png",
+    "icon-subteams.png",
+    "icon-zones.png",
+    "icon-damage.png",
+    "icon-logs.png",
+    "icon-purge.png",
+    "action-save.png",
+    "action-restore.png",
+    "action-edit.png",
+    "action-confirm.png",
+    "action-delete.png",
+    "action-close.png",
+    "icon-upkeep.png",
+    "icon-tax.png",
+    "icon-leaderboard.png",
+    "icon-warning.png"
+  ],
+  "recommended_size": "256x256 transparent PNG",
+  "notes": "Upload these exact filenames directly into ImperiumImages."
+}
